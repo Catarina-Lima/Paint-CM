@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615775388009",
+    "project_id": "polar-terminal-330814",
+    "storage_bucket": "polar-terminal-330814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615775388009:android:b67fb87048e50916853df8",
+        "android_client_info": {
+          "package_name": "com.example.paint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615775388009-018ve7lrptrvgupipl16hndhf40ifq5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMQUpgD_Lqy7-c6sQ-Vff1l38ZDMzlp0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615775388009-018ve7lrptrvgupipl16hndhf40ifq5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
